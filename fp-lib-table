@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TubeAdaptor")(type "KiCad")(uri "${KIPRJMOD}/TubeAdaptor.pretty")(options "")(descr ""))
+)
